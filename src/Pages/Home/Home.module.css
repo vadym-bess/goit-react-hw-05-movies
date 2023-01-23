@@ -1,0 +1,13 @@
+.heading{
+    margin-left: 20px;
+}
+
+.moviesThumb{
+    margin-left: 20px;
+    list-style: none;
+    
+}
+
+.moviesItem{
+    text-decoration: none;
+}
